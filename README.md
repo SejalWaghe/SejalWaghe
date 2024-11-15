@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SejalWaghe
-- 👀 I’m interested in coding...doing animation in core java!
-- 🌱 I’m currently doing Bsc 2nd year in computerscience.
+- 👀 I’m interested in coding...doing animation in core java & building websites using Html,CSS , Bootstrap
+- 🌱 I’m currently doing MCA fina year & also working as an intern , Web Designer at EBOS
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me sejalwaghe2201@gmail.com
 
